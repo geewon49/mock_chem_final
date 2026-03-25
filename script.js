@@ -68,7 +68,7 @@ let selectedQuestions = [];
 let currentQuestionIndex = 0;
 let initialTime = 0;
 let score = 0;
-let hintsLeft = 3;
+let hintsLeft = 100;
 let timerInterval;
 let timeRemaining = 0;
 let chapterScores = {}; 
